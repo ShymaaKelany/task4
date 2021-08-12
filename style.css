@@ -1,0 +1,12 @@
+h1{
+    color: teal;
+    text-align: center;
+}
+p{
+    color: rgb(128, 31, 44);
+}
+img{
+    float:left;
+    width: 200px;
+    height: 200px;
+}
